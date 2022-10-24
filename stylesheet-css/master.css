@@ -6,7 +6,8 @@ body{
 .intestazione{ 
     height: 90px; 
    background-image: url(../img/pattern.png);
-
+    background-position: top; 
+    background-size: contain;
     background-color: rgb(64, 107, 226);
    } 
 .logo{
