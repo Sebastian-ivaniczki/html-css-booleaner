@@ -13,7 +13,10 @@ body{
     height: 30px; 
     margin-top: 25px;
 } 
-/*main*/
+/*main*/ 
+ul{
+    padding-left: 14px;
+}
 .info{
     color: lightslategray;
 } 
@@ -37,4 +40,19 @@ body{
 /*footer*/
 h2{
     color: lightgray;
+} 
+#monitor{ 
+    width: 300px;
+    position: relative;
+} 
+#graph{
+    width: 300px;
+    position: relative
+}
+.img-text{
+    position: absolute;
+    top: 0; 
+    
+    font-size: larger; 
+    color: white;
 }
