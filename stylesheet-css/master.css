@@ -30,7 +30,13 @@ ul{
     background-color: yellow;
 } 
 /*tabbella*/
-
+table{
+    border-collapse: collapse; 
+    text-align: left;
+}
+th{
+    width: 300px;
+}
 .fr-row{
     background-color: blue;
 } 
