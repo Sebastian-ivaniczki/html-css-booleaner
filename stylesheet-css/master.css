@@ -1,0 +1,40 @@
+body{
+    width: 70%;
+    margin: 0px auto;
+}
+
+.intestazione{ 
+    height: 90px; 
+   background-image: url(../img/pattern.png);
+
+    background-color: rgb(64, 107, 226);
+   } 
+.logo{
+    height: 30px; 
+    margin-top: 25px;
+} 
+/*main*/
+.info{
+    color: lightslategray;
+} 
+.autore{
+    color: rgb(16, 87, 240);
+} 
+.photo-description{
+    font-size: 12px;
+} 
+.important{
+    background-color: yellow;
+} 
+/*tabbella*/
+
+.fr-row{
+    background-color: blue;
+} 
+.sc-row{
+    background-color: aqua;
+}
+/*footer*/
+h2{
+    color: lightgray;
+}
